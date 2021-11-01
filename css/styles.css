@@ -82,6 +82,7 @@ body {
   font-weight: 700;
   font-size: 16px;
   line-height: 1.9;
+  cursor: pointer;
 }
 
 .hero-button:hover,
@@ -137,6 +138,7 @@ body {
   text-align: center;
   color: var(--title-text-color);
   background-color: #f5f4fa;
+  cursor: pointer;
 }
 
 .active {
